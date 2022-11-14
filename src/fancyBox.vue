@@ -59,7 +59,7 @@
 
   import Vue from 'vue';
 
-  import VueTouch from 'vue-touch';
+  import VueTouch from 'mytouch';
 
   Vue.use(VueTouch);
 
